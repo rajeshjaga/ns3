@@ -11,7 +11,7 @@ tar xvf ns-allinone-3.44.tar.bz2
 ### Install dependencies if any error:
 ```bash
 sudo apt update
-sudo apt install cmake cmake-doc build-essentials qmake6 qconf
+sudo apt install cmake cmake-doc build-essential qmake6 qconf
 ```
 ### Post extracting, move into the ns3 folder/directory
 
